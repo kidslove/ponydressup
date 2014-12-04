@@ -7,6 +7,6 @@
 	<key>ShowGoogleInterstitial</key>
 	<true/>
 	<key>PlayhavenMaxSkiped</key>
-	<integer>23</integer>
+	<integer>2</integer>
 </dict>
 </plist>
